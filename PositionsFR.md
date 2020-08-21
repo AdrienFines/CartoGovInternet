@@ -1,6 +1,6 @@
 # Positions françaises
 
-La France promeut une approche multilatérale et multi-acteurs sur la gouvernance d'Internet. Cette approche s'organise autour de la défense de quatres idées clés : un Internet [libre](#un-internet-libre), [sûr](#un-internet-sur) et [ouvert](#un-internet-ouvert).
+La France promeut une approche multilatérale et multi-acteurs sur la gouvernance d'Internet. Cette approche s'organise autour de la défense de quatres idées clés : un Internet [libre](#un-internet-libre), [sûr](#un-internet-sûr) et [ouvert](#un-internet-ouvert).
 
 ## Un Internet libre
 
@@ -38,6 +38,6 @@ Un Internet ouvert c'est aussi un Internet neutre, afin de garantir une égalit�
 
 ### La neutralité du Net
 
-Défendre un Internet neutre est indissociable du [principe de bout-à-bout](Glossaire.md#principe-de-bout-a-bout). La neutralité du Net garantit que tous les [paquets](Glossaire.md#paquet) soient traités de manière égale sur le réseau, quels que soient leur source, leur destination ou leur contenu. 
+Défendre un Internet neutre est indissociable du [principe de bout-à-bout](Glossaire.md#principe-de-bout-à-bout). La neutralité du Net garantit que tous les [paquets](Glossaire.md#paquet) soient traités de manière égale sur le réseau, quels que soient leur source, leur destination ou leur contenu. 
 
 En pratique, pour un utilisateur d'Internet lambda, cela signifie que les FAI (Fournisseurs d'Accès à Internet) doivent lui garantir un accès global (l'intégralité du Net doit être accessible), non surveillé (pas de droit de regard sur le contenu des paquets), non altéré (pas de modification du contenu des paquets) et égal vis-à-vis des différents protocoles (pas de bridage de la vitesse selon le protocole utilisé).
