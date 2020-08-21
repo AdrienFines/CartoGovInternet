@@ -1,6 +1,7 @@
 <!-- MarkdownTOC -->
 
 - Rôle
+- Acteurs
 - Enjeux et dossiers centraux
 	- Enjeux généraux
 	- La bataille du .org
@@ -26,11 +27,14 @@
 
 L'**Internet Corporation for Assigned Names and Numbers** (ICANN) est une instance centrale de la gouvernance d'Internet. Elle a pour rôle d'**élaborer, d'appliquer et d'assurer la résilience des règles relatives aux [noms de domaines](../Glossaire.md#nom-de-domaine) et adresses IP**, en relation directe avec les registraires (sociétés chargées de la gestion d'un domaine particulier comme l'AFNIC pour le .fr) qui sont liés par contrat.
 
+# Acteurs
+
+Tous les types d'acteurs sont présents au sein de l'ICANN, depuis le simple citoyen jusqu'aux États et organisations internationales en passant par les entreprises privées et les ONG. Il est difficile de donner une importance relative à chacun de ces acteurs puisque le véritable décisionnaire est le [Conseil d'Administration](#organisation-generale). La transparence des processus de l'ICANN permet en tout cas à chaque type d'acteur d'avoir voix au chapitre, et la technicité de certains dossiers peut donner une véritable influence à des acteurs autrement peu influent. 
 # Enjeux et dossiers centraux
 
 ## Enjeux généraux 
 
-Si l'ICANN ne se limite qu'à un rôle technique dans le seul champ de l'adressage IP et DNS, son importance vient surtout de la portée mondiale de son action. En effet, les experts techniques de l'ICANN sont au coeur de l'infrastructure d'Internet et possèdent théoriquement la capacité de mettre hors-service l'immense majorité de la face visible d'Internet en cas d'arrêt du système DNS.
+Si l'ICANN ne se limite qu'à un rôle technique dans le seul champ de l'adressage IP et DNS, son importance vient surtout de la portée mondiale de son action. En effet, les experts techniques de l'ICANN sont au coeur de l'infrastructure d'Internet et possèdent théoriquement la capacité de mettre hors-service l'immense majorité de la face visible d'Internet en cas de coupure du système DNS.
 
 
 De plus, la gestion des noms de domaine a un impact plus grand qu'on ne le pense sur la société en général. 
@@ -51,13 +55,13 @@ En Avril 2020, après une bataille de plusieurs mois et un positionnement franç
 
 ## Le système WHOIS 
 
-Le système WHOIS (Who is) est un service de recherche d'informations personnelles (noms, adresse, mail, téléphone...) sur les détenteurs des noms de domaine. Ces données personnelles sont fournies par les détenteurs eux-mêmes puisqu'elles sont nécessairement fournies aux registraires lors de l'achat du nom de domaine.
+Le système WHOIS (Who is) est un service de recherche d'informations personnelles (noms, adresse, mail, téléphone...) sur les détenteurs des noms de domaine. Ces données personnelles sont fournies par les détenteurs eux-mêmes puisqu'elles sont nécessairement données aux registraires lors de l'achat du nom de domaine.
 
-Les données du système WHOIS étaient au départ rendues entièrement publiques, ce qui a conduit à des réutilisations parfois discutables. Ainsi, la base était régulièrement parcourue par des cyber-délinquants à la recherche de personnes à hameçonnner. À l'inverse, des services de sécurité, notamment américains, se sont énormément réposés sur cette base pour enquêter sur des sites frauduleux. L'industrie du luxe française, à commencer par LVMH, a pu utiliser WHOIS pour remonter les filières de contrefaçon. WHOIS a aussi été utilisé par des journalistes indépendants comme source d'informations.
+Les données du système WHOIS étaient au départ rendues entièrement publiques, ce qui a conduit à des réutilisations parfois discutables. Ainsi, la base était régulièrement parcourue par des cyber-délinquants à la recherche de personnes à hameçonnner. À l'inverse, des services de sécurité, notamment américains, se sont énormément reposés sur cette base pour enquêter sur des sites frauduleux. L'industrie française du luxe, à commencer par LVMH, a pu utiliser WHOIS pour remonter les filières de contrefaçon. WHOIS a aussi été utilisé par des journalistes indépendants comme source d'informations.
 
-La non-conformité de WHOIS au RGPD a créé une crise profonde dans un système déjà vieillissant. Le Conseil d'Administration de l'ICANN a alors fait le choix soudain et radical de masquer la presque totalité des informations personnelles, ce qui a conduit les services de renseignement et policiers, tout particulièrement américains à protester, de même que les journalistes. Il est prévu que le système soit rénové, un Processus de Développement des Politiques est actuellement à l'oeuvre et rendra ses recommandations fin septembre. 
+La non-conformité de WHOIS au RGPD a créé une crise profonde dans un système déjà vieillissant. Le Conseil d'Administration de l'ICANN a alors fait le choix soudain et radical de masquer la presque totalité des informations personnelles, ce qui a conduit les services de renseignement et policiers, tout particulièrement américains, à protester vigoureusement, de même que les journalistes. Il est prévu que le système soit rénové, un Processus de Développement des Politiques est actuellement à l'oeuvre et rendra ses recommandations fin septembre 2020. 
 
-Les options envisagées sont actuellement de créer un système de demande d'accès aux données personnelles des détenteurs de noms de domaine, et un accès privilégié pour d'autres personnes (comme les services de renseignement). 
+Les options envisagées sont actuellement de créer un système de demande d'accès aux données personnelles des détenteurs de noms de domaine, et un accès privilégié pour d'autres personnes (comme les services de renseignement, mais pas forcément les journalistes). 
 
 ## L'expansion des generic Top-Level Domain (gTLD)
 
@@ -92,7 +96,7 @@ L'ICANN est une société à but non lucratif basée en Californie.
 
 L'ICANN possède trois grands organes.
 
-- Le **Conseil d'Administration**(CA) est l'organe exécutif de l'ICANN et est constitué de diverses parties prenantes de la gouvernance d'Internet en général. Il doit approuver tout ou partie des **Processus de Développement des Politiques**, propositions construites par les groupes de travail de l'ICANN. Il lui est souvent reproché son opacité dans la prise de décision, en totale opposition avec le reste des processus de l'instance, très transparents et ouverts à la société civile.
+- Le **Conseil d'Administration** (CA) est l'organe exécutif de l'ICANN et est constitué de diverses parties prenantes de la gouvernance d'Internet en général. Il doit approuver tout ou partie des **Processus de Développement des Politiques**, propositions construites par les groupes de travail de l'ICANN. Il lui est souvent reproché son opacité dans la prise de décision, en totale opposition avec le reste des processus de l'instance, très transparents et ouverts à la société civile.
 
 - L'**ICANN.org** est une entreprise de 400 employés chargée d'organiser la bonne tenue des groupes de travail et de communiquer sur leurs résultats. [NOM ET NOMBRE D'EMPLOYES A VERIFIER]
 
@@ -129,13 +133,13 @@ Le GAC réunit les États et les Organisations Internationales. Il se réunit tr
 
 Le gNSO est une organisation de soutien en charge des  qui englobe énormément de problématiques de l'ICANN. Cette organisation est d'une très grande complexité, avec de très nombreuses sous-structures ce qui la rend assez paralysée.
 
-Elle est chargée de dossiers comme [l'expansion des gTLD](#lexpansion-des-generic-top-level-domain-gtld)).
+Elle est chargée de dossiers comme [l'expansion des gTLD](#lexpansion-des-generic-top-level-domain-gtld).
 
 ## Dissensions internes
 
 ### Rôle des États-Unis
 
-Le rôle des États-Unis a toujours été créateur de tensions au sein de l'ICANN, qui, rappelons le, est basée en Californie et répond du droit californien. 
+Le rôle des États-Unis a toujours été créateur de tensions au sein de l'ICANN, qui, rappelons-le, est basée en Californie et répond du droit californien. 
 
 Ces tensions se sont affaiblies depuis 2014 avec le non renouvellement du contrat mettant l'ICANN sous la tutelle du département du Commerce américain.
 
@@ -151,3 +155,4 @@ Un groupe de travail rendra fin septembre ses conclusions sur la définition off
 
 # Positions françaises et personnes mobilisées
 
+L'ICANN est suivie par 

@@ -1,7 +1,7 @@
 # Accueil
 
 ## Objectif général de ce wiki
-L'objectif de ce wiki est de dresser une cartographie de la [gouvernance d'Internet](Glossaire/GouvernanceInternet.md), et de la rendre **diplomatiquement opérationnelle**.
+L'objectif de ce wiki est de dresser une cartographie de la [gouvernance d'Internet](Glossaire.md#gouvernance-dinternet), et de la rendre **diplomatiquement opérationnelle**.
 
 Ainsi, l'utilisateur doit pouvoir appréhender rapidement les principaux [acteurs](Acteurs.md) à l'oeuvre au sein des différentes [instances](Instances.md) de la gouvernance d'Internet et les grands [enjeux](Enjeux.md) de cette dernière . Il doit pouvoir s'approprier les [positions françaises](PositionsFR.md) dans ses grandes lignes et disposer d'élements lui permettant de concevoir une diplomatie d'influence coordonnée et harmonisée sur tous les plans. Il doit être en mesure de se renseigner rapidement sur un enjeu particulier, un acteur particulier ou une instance particulière si besoin est.
 
