@@ -12,6 +12,7 @@
 	- Organisation générale
 	- Processus de gouvernance et comitologie
 	- GT importants
+	- Financement
 	- Dissensions internes
 - Positions françaises et personnes mobilisées
 
@@ -53,6 +54,10 @@ _Quels sont les organes principaux de l'instance ?_
 _Comment se déroule le processus de décision/production de valeur de l'instance ?_
 
 ## GT importants
+
+## Financement 
+_Comment se finance l'instance ? Cela a-t-il un impact sur les processus de décisions ?_
+
 
 ## Dissensions internes
 

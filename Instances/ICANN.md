@@ -15,6 +15,7 @@
 	- Organisations de soutien et comités consultatifs importants
 		- Le GAC \(Governmental Advisory Commitee\)
 		- Le gNSO \(generic Names Supporting Organization\)
+	- Financement
 	- Dissensions internes
 		- Rôle des États-Unis
 		- Une instance seulement technique ou aussi politique ?
@@ -134,6 +135,9 @@ Le GAC réunit les États et les Organisations Internationales. Il se réunit tr
 Le gNSO est une organisation de soutien en charge des  qui englobe énormément de problématiques de l'ICANN. Cette organisation est d'une très grande complexité, avec de très nombreuses sous-structures ce qui la rend assez paralysée.
 
 Elle est chargée de dossiers comme [l'expansion des gTLD](#lexpansion-des-generic-top-level-domain-gtld).
+
+## Financement 
+_Comment se finance l'instance ? Cela a-t-il un impact sur les processus de décisions ?_
 
 ## Dissensions internes
 
