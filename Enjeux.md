@@ -12,3 +12,4 @@ Nous distinguons quatre axes essentiels sur lesquels se répartissent les enjeux
 
 - L'[axe des libertés individuelles et de l'accessibilité au réseau](Enjeux/LibertesIndividuelles.md)
 
+Remarquons néanmoins que cette classification est très artificielle et qu'il est très fréquent qu'un enjeu économique soit aussi un enjeu sécuritaire par exemple. 
