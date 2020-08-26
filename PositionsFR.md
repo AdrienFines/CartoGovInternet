@@ -1,6 +1,6 @@
 # Positions françaises
 
-La France promeut une approche multilatérale et multi-acteurs sur la gouvernance d'Internet. Cette approche s'organise autour de la défense de quatres idées clés : un Internet [libre](#un-internet-libre), [sûr](#un-internet-sûr) et [ouvert](#un-internet-ouvert).
+La France promeut une approche multilatérale et multi-acteurs sur la gouvernance d'Internet. Cette approche s'organise autour de la défense de trois idées clés : un Internet [libre](#un-internet-libre), [sûr](#un-internet-sûr) et [ouvert](#un-internet-ouvert).
 
 ## Un Internet libre
 

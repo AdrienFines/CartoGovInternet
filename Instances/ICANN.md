@@ -158,5 +158,3 @@ Il faut aussi mettre en perspective cette réticence à réguler avec le modèle
 Un groupe de travail rendra fin septembre ses conclusions sur la définition officielle par l'ICANN d'**abus de DNS**, présumément nécessaire pour une action répressive.
 
 # Positions françaises et personnes mobilisées
-
-L'ICANN est suivie par 

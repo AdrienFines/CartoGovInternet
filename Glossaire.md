@@ -3,6 +3,7 @@
 
 La gouvernance de l’Internet est l’élaboration et l’application par les Etats, le secteur privé et la société civile, chacun selon son rôle, de principes, normes, règles, procédures de prise de décision et programmes communs propres à modeler l’évolution et l’utilisation de l’Internet. (Sommet Mondial pour la Société de l'Information, Tunis 2005)
 
+Une définition plus large : La gouvernance d'Internet est le terme le plus simple, le plus direct et le plus inclusif pour définir les débats et les discussions en cours sur la manière dont l'Internet est coordonné, géré et façonné pour refléter les politiques. (source : Mueller, 2010, Networks and States: The Global Politics of Internet Governance)
 
 
 # Nom de domaine
