@@ -8,8 +8,9 @@ Nous distinguons quatre axes essentiels sur lesquels se répartissent les enjeux
 
 - L'[axe sécuritaire](Enjeux/Securite.md)
 
-- L'[axe influence et culture](Enjeux/InfluenceEtCulture.md)
+- L'[axe des droits humains et du développement](Enjeux/DroitsEtDeveloppement.md)
 
-- L'[axe des libertés individuelles et de l'accessibilité au réseau](Enjeux/LibertesIndividuelles.md)
+- L'[axe juridique](Enjeux/Juridiques.md)
+
 
 Remarquons néanmoins que cette classification est très artificielle et qu'il est très fréquent qu'un enjeu économique soit aussi un enjeu sécuritaire par exemple. 
