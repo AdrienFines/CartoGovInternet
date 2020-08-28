@@ -23,7 +23,7 @@
 
 L'IETF (Internet Engineering Task Force) est l'instance chargée de développer les protocoles et standards Internet, en produisant des documents appelés RFC (Request For Comments) dont les plus importants deviennes des standards (par exemple RFC 761 sur le protocole TCP ou RFC 791 sur l'Internet Protocol (IP)).  
 
-C'est un organisme sans statut, ouvert, sans adhésion, et les participants doivent venir à titre individuel (même s'ils viennent de la part d'un État ou d'une entreprise). L'IETF a pour organisation mère l'[ISOC](Instances/ISO.md). 
+C'est un organisme sans statut, ouvert, sans adhésion, et les participants doivent venir à titre individuel (même s'ils viennent de la part d'un État ou d'une entreprise). Les participants sont généralement des ingénieurs et des chercheurs spécialisés en réseaux. L'IETF a pour organisation mère l'[ISOC](Instances/ISO.md). 
 
 # Acteurs
 

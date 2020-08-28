@@ -52,7 +52,7 @@ Le nom de domaine générique de premier niveau **.org**, traditionnellement uti
 
 Les dangers de ce rachat auraient été une gestion opaque du domaine par un acteur privé dont le but aurait été la recherche de profit, ce qui aurait pu mettre à mal à la fois la situation financières de ces près de 10 millions d'organisations pas toujours très riches mais aussi la crédibilité du domaine .org. De plus, les organisations et sites utilisant ce domaine n'auraient pas pu participer à sa gouvernance.
 
-En Avril 2020, après une bataille de plusieurs mois et un positionnement français résolumment contre ce rachat, l'ICANN a annoncé retirer son consentement au rachat, ce qui s'apparente à une fin de non-recevoir pour le PIR.
+En Avril 2020, après une bataille de plusieurs mois et un positionnement français résolument contre ce rachat, l'ICANN a annoncé retirer son consentement au rachat, ce qui s'apparente à une fin de non-recevoir pour le PIR.
 
 ## Le système WHOIS 
 

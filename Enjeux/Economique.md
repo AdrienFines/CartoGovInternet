@@ -12,6 +12,7 @@ L'**e-commerce**, c'est-à-dire l'ensemble des transactions dont selon l'OMC "la
 - La sécurité des systèmes d'authentification et de signatures numériques
 - Les monnaies virtuelles, pas toujours sécurisées ni réglementées ni très respectueuses de la vie privée, avec des dérives comme le blanchiment d'argent ou l'effondrement de plateformes d'échange comme Mt. Gox en 2014 (plus grande plateforme d'échange à l'époque).
 
+
 ## L'économie de l'accès à Internet
 
 L'**économie de l'accès à Internet** repose sur les entreprises de télécommunications et les FAI (Fournisseurs d'Accès à Internet), qui sont payés par les utilisateurs d'Internet pour y accéder. Les enjeux associés sont :

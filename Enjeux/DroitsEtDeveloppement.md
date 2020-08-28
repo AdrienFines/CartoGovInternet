@@ -4,11 +4,11 @@ Internet est un moyen d'expression et de libération formidable, mais certaines 
 
 - Le droit d'accès à Internet est-il un droit fondamental ? Des pays comme l'Estonie le garantissent légalement comme tel. 
 
-- L'accès à l'ensemble de l'Internet est remis en cause par certains pays qui pratiquent soit la censure ponctuelle de certains sites (le Maroc ou la Thaïlande ont par exemple bloqué Youtube pendant une semaine à causes de vidéos politiques jugées insultantes), soit dans le cas de la Chine une censure complète avec un Internet régional presque complètement coupé de l'Internet mondal. 
+- L'accès à l'ensemble de l'Internet est remis en cause par certains pays qui pratiquent soit la censure ponctuelle de certains sites (le Maroc ou la Thaïlande ont par exemple bloqué Youtube pendant une semaine à causes de vidéos politiques jugées insultantes), soit dans le cas de la Chine une censure complète avec un Internet régional presque complètement coupé de l'Internet mondial. 
 
 - La liberté d'expression, remise en cause par des politiques de régulation des contenus trop restrictives.  
 
-- Le respect de l'anonymat et la protection des données personnelles. Ces enjeux sont connexes à ceux de cyberespionnage
+- Le respect de l'anonymat et la protection des données personnelles. Ces enjeux sont connexes à ceux du cyberespionnage
 
 - La neutralité du Net est un sujet transversal qui rassemble respect de l'anonymat, droit d'accès à Internet et accès à tout l'Internet. 
 
