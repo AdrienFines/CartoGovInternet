@@ -21,7 +21,9 @@
 
 # Rôle
 
-_Quel est le rôle de l'instance ?_
+L'ISOC (Internet Society) est une instance historique créée par Vint Cerf et Robert Kahn en 1992. C'est une organisation à but non lucratif chargée de coordonner le développement d'Internet qui contient près de 72 000 membres en 2020. 
+
+Son importance vient d'abord de son soutien financier à l'[IETF](Instances/IETF.md), placée sous son contrôle, et du PIR (Public Internet Registry), registraire chargé du .org (voir la [controverse associée](Instances/ICANN.md#la-bataille-du-org)). Elle dispose aussi de branches locales comme l'ISOC France.  
 
 # Acteurs
 
